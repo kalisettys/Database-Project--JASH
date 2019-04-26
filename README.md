@@ -1,3 +1,3 @@
-# JASH
+# Name of our Website: JASH
 
-A database project
+VCU: CMSC 508 Database Theory Project
